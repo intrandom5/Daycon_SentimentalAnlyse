@@ -1,0 +1,6 @@
+model_name: j-hartmann/emotion-english-distilroberta-base
+train_path: ../train.csv
+valid_path: ../valid.csv
+epoch: 5
+lr: 1.e-5
+batch_size: 16
